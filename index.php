@@ -6,5 +6,8 @@
 </head>
 <body>
 	<h3>Hello</h3>
+	<div class="col-md-12">
+		
+	</div>
 </body>
 </html>
